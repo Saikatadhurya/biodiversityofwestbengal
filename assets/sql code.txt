@@ -1,0 +1,5 @@
+For extracting 16th-17th character of a string of column id to column slno of table sub4:
+UPDATE sub4 SET slno=substring(id, 16,2)
+
+For adding "00" before last digit of a string of column id of table sub4:
+UPDATE sub4 set id=concat(left(id, length(id) - 1), '00', right(id, 1))

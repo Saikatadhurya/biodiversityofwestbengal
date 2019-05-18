@@ -1,0 +1,10 @@
+.container{
+margin-top:100px;
+}
+
+.jumbotron{background-color:#B3B5B7;}
+h1 {
+    font-family: "Times New Roman", Times, serif;
+	    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}

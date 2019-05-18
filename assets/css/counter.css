@@ -1,0 +1,55 @@
+.images,.videos,.audios,.contributor
+{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    
+}
+.counter-count
+{
+    font-size: 18px;
+    background-color: #000000;
+    border-radius: 50%;
+    position: relative;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 92px;
+    width: 92px;
+    height: 92px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    display: inline-block;
+}
+
+.images-p,.videos-p,.audios-p,.contributor-p
+{
+    font-size: 24px;
+    color: #000000;
+    line-height: 34px;
+
+}
+@media only screen and (max-width: 800px) {
+	.counter-count
+{
+font-size: 16px;
+ width: 72px;
+    height: 72px ;
+	line-height: 72px;
+}
+.images-p,.videos-p,.audios-p,.contributor-p
+{
+    font-size: 14px;
+    color: #000000;
+    line-height: 14px;
+	margin-left:12px;
+
+}
+.images,.videos,.audios,.contributor
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+
+}

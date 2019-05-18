@@ -1,0 +1,21 @@
+#about{
+	
+	margin-top:100px;
+}
+
+.about-section {
+    padding: 4em 0; font-family: 'Roboto';font-size: 15px;
+    
+}
+.about-section h1 {
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: .6em;
+    color: #c41f1f;
+}
+.about-section p {
+    text-align: center;
+    line-height: 1.8em;
+    font-size: 1.1em;
+    color: #1b1b1b;
+}

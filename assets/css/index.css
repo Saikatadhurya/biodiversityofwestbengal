@@ -1,0 +1,37 @@
+#home
+{
+	margin-top:100px;
+}
+
+
+body{
+     background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(../image/back.jpg);
+     background-attachment: fixed;
+}
+
+.jumbotron{
+	   background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(../image/back.jpg);
+     background-attachment: fixed;
+	   margin-top:50px;
+	   
+	}
+	.white{
+	color:white;
+	}
+	
+	
+	@media only screen and (max-width: 800px) {
+	    
+	.jumbotron{
+	   background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(../image/back1.jpg);
+	      	background-attachment: fixed;
+		margin-top:138px;
+		
+	
+	}
+	body{
+	      background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(../image/back1.jpg);
+	      	background-attachment: fixed;
+	    
+	}
+}

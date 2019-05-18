@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://wildwingsindia.in/</loc>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/1.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>First slide</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/2.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Second slide</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/gb.php</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/debayan.JPG</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Card image cap</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/pavelghosh.jpeg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Card image cap</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/nirjhar.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Card image cap</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/satyajitmandal.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Card image cap</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/sagaradhurya.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Card image cap</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/subho.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Card image cap</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/rahulmallick.jpeg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Card image cap</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/samapikaseal.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Card image cap</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/saikat.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Card image cap</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/sushenghosh.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Card image cap</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/saurav.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Card image cap</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/pinaki.jpeg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Card image cap</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub1.php?kingdom=Animals</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/vertebrate.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/IMG_3968.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub1.php?kingdom=Plants</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Pteridophyta.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/P_20160510_130329.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub2-5.php?sub2=Birds</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Cuculiformes.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Piciformes.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Falconiformes.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Pelecaniformes.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Columbiformes.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Ciconiiformes.jpeg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Charadriiformes.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Caprimulgiformes.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Bucerotiformes.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Accipitriformes.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Passeriformes.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Coraciiformes.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Strigiformes.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Psittaciformes.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub2-5.php?sub2=Dicotyledons</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Sapindales.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub2.php?sub1=Angiosperms</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Dicotyledons.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub2.php?sub1=Vertebrate</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/bird.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub3.php?sub2=Birds&amp;sub25=Accipitriformes</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Accipitridae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub3.php?sub2=Birds&amp;sub25=Anseriformes</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiAnAnAnanx1.jpg</image:loc>
+      <image:title>Greylag Goose Anser anser wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub3.php?sub2=Birds&amp;sub25=Bucerotiformes</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Upupidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub3.php?sub2=Birds&amp;sub25=Caprimulgiformes</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Caprimulgidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub3.php?sub2=Birds&amp;sub25=Charadriiformes</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Scolopacidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Charadriidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Jacanidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Glareolidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub3.php?sub2=Birds&amp;sub25=Ciconiiformes</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Ciconiidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub3.php?sub2=Birds&amp;sub25=Columbiformes</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Columbidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub3.php?sub2=Birds&amp;sub25=Coraciiformes</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Coraciidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Meropidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Alcedinidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub3.php?sub2=Birds&amp;sub25=Cuculiformes</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Cuculidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub3.php?sub2=Birds&amp;sub25=Falconiformes</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Falconidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub3.php?sub2=Birds&amp;sub25=Passeriformes</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Muscicapidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Laniidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Vangidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Motacillidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Leiothrichidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Aegithinidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Cisticolidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Estrildidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Hirundinidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Campephagidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Dicruridae.JPG</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Alaudidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Corvidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Sturnidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Turdidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Nectariniidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Phylloscopidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub3.php?sub2=Birds&amp;sub25=Pelecaniformes</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Ardeidae.jpg</image:loc>
+      <image:title>Cattle Egret Bubulcus ibis wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Threskiornithidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub3.php?sub2=Birds&amp;sub25=Piciformes</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Picidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub3.php?sub2=Birds&amp;sub25=Psittaciformes</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Psittaculidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub3.php?sub2=Birds&amp;sub25=Strigiformes</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Strigidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub3.php?sub2=Dicotyledons&amp;sub25=Sapindales</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Anacardiaceae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Accipitriformes&amp;sub3=Accipitridae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiAcAcBurux1.jpg</image:loc>
+      <image:title>Long-legged Buzzard Buteo rufinus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiAcAcAcbax2.jpg</image:loc>
+      <image:title>Shikra Accipiter badius wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiAcAcAcBax1.jpg</image:loc>
+      <image:title>Shikra Accipiter badius wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiAcAcPeptx1.jpg</image:loc>
+      <image:title>Oriental Honey Buzzard Pernis ptilorhynchus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiAcAcCimex1.jpg</image:loc>
+      <image:title>Pied Harrier Circus melanoleucos wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiAcAcBurux2.jpg</image:loc>
+      <image:title>Long-legged Buzzard Buteo rufinus wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Anseriformes&amp;sub3=Anatidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiAnAnAnplx1.jpg</image:loc>
+      <image:title>Mallard Anas platyrhynchos wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiAnAnDejax2.jpg</image:loc>
+      <image:title>Lesser Whistling-Duck Dendrocygna javanica wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiAnAnDejax1.jpg</image:loc>
+      <image:title>Lesser Whistling-Duck Dendrocygna javanica wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Bucerotiformes&amp;sub3=Upupidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiBuUpUpepx2.jpg</image:loc>
+      <image:title>Common Hoopoe Upupa epops wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiBuUpUpepx3.jpg</image:loc>
+      <image:title>Common Hoopoe Upupa epops wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiBuUpUpepx1.jpg</image:loc>
+      <image:title>Common Hoopoe Upupa epops wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Caprimulgiformes&amp;sub3=Caprimulgidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B624CaCaAax0001.jpg</image:loc>
+      <image:title>Indian Nightjar Caprimulgus asiaticus wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Charadriiformes&amp;sub3=Charadriidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChChVainx.jpg</image:loc>
+      <image:title>Red-wattled Lapwing Vanellus indicus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChChVacix2.jpg</image:loc>
+      <image:title>Grey-headed Lapwing Vanellus cinereus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChScTrocx4.jpg</image:loc>
+      <image:title>Little-ringed Plover Charadrius dubius wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChChChalx1.jpg</image:loc>
+      <image:title>Kentish Plover Charadrius alexandrinus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChChVainx2.jpg</image:loc>
+      <image:title>Red-wattled Lapwing Vanellus indicus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChChVainx3.jpg</image:loc>
+      <image:title>Red-wattled Lapwing Vanellus indicus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChChVainx4.jpg</image:loc>
+      <image:title>Red-wattled Lapwing Vanellus indicus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChChChdux1.jpg</image:loc>
+      <image:title>Little-ringed Plover Charadrius dubius wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChChChdux5.jpg</image:loc>
+      <image:title>Little-ringed Plover Charadrius dubius wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChChChdux2.jpg</image:loc>
+      <image:title>Little-ringed Plover Charadrius dubius wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChChVacix1.jpg</image:loc>
+      <image:title>Grey-headed Lapwing Vanellus cinereus wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Charadriiformes&amp;sub3=Glareolidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B624ChGlGlx0001.jpg</image:loc>
+      <image:title>Small pratincole Glareola lactea wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Charadriiformes&amp;sub3=Jacanidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/BDBC0032.jpg</image:loc>
+      <image:title>Bronze-winged jacana Metopidius indicus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChJaHychx1.jpg</image:loc>
+      <image:title>Pheasant-tailed Jacana Hydrophasianus chirurgus wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Charadriiformes&amp;sub3=Scolopacidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChScTrocx1.jpg</image:loc>
+      <image:title>Green Sandpiper Tringa ochropus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChScTrocx3.jpg</image:loc>
+      <image:title>Green Sandpiper Tringa ochropus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChScAchyx1.jpg</image:loc>
+      <image:title>Common Sandpiper Actitis hypoleucos wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChScTrocx2.jpg</image:loc>
+      <image:title>Green Sandpiper Tringa ochropus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChScTrnex1.jpg</image:loc>
+      <image:title>Common Greenshank Tringa nebularia wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChScCatex2.jpg</image:loc>
+      <image:title>Temminck&apos;s Stint Calidris temminckii wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChScCatex1.jpg</image:loc>
+      <image:title>Temminck&apos;s Stint Calidris temminckii wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiChScTrglx2.jpg</image:loc>
+      <image:title>Wood Sandpiper Tringa glareola wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Ciconiiformes&amp;sub3=Ciconiidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCiCiAnosx6.jpg</image:loc>
+      <image:title>Asian Openbill Anastomus oscitans wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCiCiAnosx7.jpg</image:loc>
+      <image:title>Asian Openbill Anastomus oscitans wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCiCiAnosx2.jpg</image:loc>
+      <image:title>Asian Openbill Anastomus oscitans wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCiCiAnosx4.jpg</image:loc>
+      <image:title>Asian Openbill Anastomus oscitans wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCiCiAnosx5.jpg</image:loc>
+      <image:title>Asian Openbill Anastomus oscitans wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCiCiAnosx3.jpg</image:loc>
+      <image:title>Asian Openbill Anastomus oscitans wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCiCiAnosx1.jpg</image:loc>
+      <image:title>Asian Openbill Anastomus oscitans wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Columbiformes&amp;sub3=Columbidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCoCoStsex1.jpg</image:loc>
+      <image:title>Laughing Dove Streptopelia senegalensis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCoCoStsex2.jpg</image:loc>
+      <image:title>Laughing Dove Streptopelia senegalensis wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Coraciiformes&amp;sub3=Alcedinidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCoAlHasmx1.jpg</image:loc>
+      <image:title>White-throated Kingfisher/White-breasted Kingfisher Halcyon smyrnensis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCoAlHasmx2.jpg</image:loc>
+      <image:title>White-throated Kingfisher/White-breasted Kingfisher Halcyon smyrnensis wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Coraciiformes&amp;sub3=Coraciidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCoCoCobex2.jpg</image:loc>
+      <image:title>Indian Roller Coracias benghalensis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCoCoCobex5.jpg</image:loc>
+      <image:title>Indian Roller Coracias benghalensis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCoCoCobex3.jpg</image:loc>
+      <image:title>Indian Roller Coracias benghalensis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCoCoCobex4.jpg</image:loc>
+      <image:title>Indian Roller Coracias benghalensis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCoCoCobex1.jpg</image:loc>
+      <image:title>Indian Roller Coracias benghalensis wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Coraciiformes&amp;sub3=Meropidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCoMeMeorx2.jpg</image:loc>
+      <image:title>Green Bee-eater Merops orientalis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCoMeMeorx3.jpg</image:loc>
+      <image:title>Green Bee-eater Merops orientalis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCoMeMeorx1.jpg</image:loc>
+      <image:title>Green Bee-eater Merops orientalis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCoMeMeorx4.jpg</image:loc>
+      <image:title>Green Bee-eater Merops orientalis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCoMeMephx1.jpg</image:loc>
+      <image:title>Blue-tailed Bee-eater Merops philippinus wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Cuculiformes&amp;sub3=Cuculidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCuCuHivax1.jpg</image:loc>
+      <image:title>Common Hawk Cuckoo/Brainfever Bird Hierococcyx varius wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCuCuEuscx2.jpg</image:loc>
+      <image:title>Asian Koel Eudynamys scolopaceus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCuCuCljax1.jpg</image:loc>
+      <image:title>Pied Cuckoo/Jacobin Cuckoo/Pied-crested Cuckoo Clamator jacobinus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiCuCuEuscx1.jpg</image:loc>
+      <image:title>Asian Koel Eudynamys scolopaceus wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Falconiformes&amp;sub3=Falconidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiFaFaFatix3.jpg</image:loc>
+      <image:title>Common Kestrel Falco tinnunculus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiFaFaFatix2.jpg</image:loc>
+      <image:title>Common Kestrel Falco tinnunculus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiFaFaFatix1.jpg</image:loc>
+      <image:title>Common Kestrel Falco tinnunculus wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Aegithinidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaAeAetix1.jpg</image:loc>
+      <image:title>Common Iora Aegithina tiphia wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Alaudidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaAlErgrx1.jpg</image:loc>
+      <image:title>Ashy-crowned Sparrow Lark Eremopterix griseus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaAlAmphx1.jpg</image:loc>
+      <image:title>Rufous-tailed Lark Ammomanes phoenicura wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaAlAlrax1.jpg</image:loc>
+      <image:title>Sand Lark Alaudala raytal wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaAlErgrx2.jpg</image:loc>
+      <image:title>Ashy-crowned Sparrow Lark Eremopterix griseus wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Campephagidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaCaPecix1.jpg</image:loc>
+      <image:title>Small Minivet Pericrocotus cinnamomeus wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Cisticolidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaCiOrsux1.jpg</image:loc>
+      <image:title>Common Tailorbird Orthotomus sutorius wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Corvidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaCoDevax1.jpg</image:loc>
+      <image:title>Rufous Treepie/Indian Treepie Dendrocitta vagabunda wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Dicruridae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaDiDimax3.jpg</image:loc>
+      <image:title>Black Drongo Dicrurus macrocercus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaDiDimax2.jpg</image:loc>
+      <image:title>Black Drongo Dicrurus macrocercus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaDiDimax1.JPG</image:loc>
+      <image:title>Black Drongo Dicrurus macrocercus wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Estrildidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaEsLopux1.jpg</image:loc>
+      <image:title>Scaly-breasted Munia Lonchura punctulata wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaEsLopux5.jpg</image:loc>
+      <image:title>Scaly-breasted Munia Lonchura punctulata wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaEsLopux4.jpg</image:loc>
+      <image:title>Scaly-breasted Munia Lonchura punctulata wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaEsLopux3.jpg</image:loc>
+      <image:title>Scaly-breasted Munia Lonchura punctulata wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaEsLopux6.jpg</image:loc>
+      <image:title>Scaly-breasted Munia Lonchura punctulata wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaEsLopux2.jpg</image:loc>
+      <image:title>Scaly-breasted Munia Lonchura punctulata wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaEsLomax1.jpg</image:loc>
+      <image:title>Tricoloured Munia/Black-headed Munia Lonchura malacca wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaEsLomax3.jpg</image:loc>
+      <image:title>Tricoloured Munia/Black-headed Munia Lonchura malacca wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Hirundinidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaHiHirux1.jpg</image:loc>
+      <image:title>Barn Swallow Hirundo rustica wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Laniidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaLaLacrx4.jpg</image:loc>
+      <image:title>Brown Shrike Lanius cristatus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaLaLacrx3.jpg</image:loc>
+      <image:title>Brown Shrike Lanius cristatus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaLaLacrx2.jpg</image:loc>
+      <image:title>Brown Shrike Lanius cristatus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaLaLacrx1.jpg</image:loc>
+      <image:title>Brown Shrike Lanius cristatus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaLaLacrx5.jpg</image:loc>
+      <image:title>Brown Shrike Lanius cristatus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaLaLascx1.jpg</image:loc>
+      <image:title>Long-tailed Shrike Lanius schach wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Leiothrichidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaLeTustx3.jpg</image:loc>
+      <image:title>Jungle Babbler Turdoides striata wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaLeTustx1.jpg</image:loc>
+      <image:title>Jungle Babbler Turdoides striata wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaLeTustx2.jpg</image:loc>
+      <image:title>Jungle Babbler Turdoides striata wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaLeAreax1.jpg</image:loc>
+      <image:title>Striated Babbler Argya earlei wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Motacillidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaMoAnrux1.jpg</image:loc>
+      <image:title>Paddyfield Pipit Anthus rufulus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaMoMocit2.jpg</image:loc>
+      <image:title>Citrine Wagtail Motacilla citreola wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaMoAnhox1.jpg</image:loc>
+      <image:title>Olive-backed Pipit Anthus hodgsoni wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaMoMocit1.jpg</image:loc>
+      <image:title>Citrine Wagtail Motacilla citreola wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaMoAnrux2.jpg</image:loc>
+      <image:title>Paddyfield Pipit Anthus rufulus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaMoMoalx2.jpg</image:loc>
+      <image:title>White Wagtail Motacilla alba wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaMoMocix1.jpg</image:loc>
+      <image:title>Grey Wagtail Motacilla cinerea wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaMoAnrux3.jpg</image:loc>
+      <image:title>Little-ringed Plover Charadrius dubius wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaMoMoalx3.jpg</image:loc>
+      <image:title>White Wagtail Motacilla alba wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaMoMoalx1.jpg</image:loc>
+      <image:title>White Wagtail Motacilla alba wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Muscicapidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaMuFialx3.jpg</image:loc>
+      <image:title>Taiga Flycatcher Ficedula albicilla wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/BVeBiPaMuSacax1.jpg</image:loc>
+      <image:title>Pied Bushchat Saxicola caprata wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaMuCosax1.jpg</image:loc>
+      <image:title>Oriental Magpie Robin Copsychus saularis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaMuFialx2.jpg</image:loc>
+      <image:title>Taiga Flycatcher Ficedula albicilla wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaMuCosax2.jpg</image:loc>
+      <image:title>Oriental Magpie Robin Copsychus saularis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaMuFialx1.jpg</image:loc>
+      <image:title>Taiga Flycatcher Ficedula albicilla wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Nectariniidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaNeLezex1.jpg</image:loc>
+      <image:title>Purple-rumped Sunbird Leptocoma zeylonica wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Oriolidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaOrOrxax1.jpg</image:loc>
+      <image:title>Black-hooded Oriole Oriolus xanthornus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaOrOrchx2.jpg</image:loc>
+      <image:title>Black-naped Oriole Oriolus chinensis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaOrOrxax2.jpg</image:loc>
+      <image:title>Black-hooded Oriole Oriolus xanthornus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaOrOrchx1.jpg</image:loc>
+      <image:title>Black-naped Oriole Oriolus chinensis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaOrOrkux1.jpg</image:loc>
+      <image:title>Indian Golden Oriole Oriolus kundoo wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Phylloscopidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaPhAbinx3.jpg</image:loc>
+      <image:title>Yellow-browed Warbler Abrornis inornatus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaPhAbinx2.jpg</image:loc>
+      <image:title>Yellow-browed Warbler Abrornis inornatus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaPhAbinx1.jpg</image:loc>
+      <image:title>Yellow-browed Warbler Abrornis inornatus wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaPhAbinx4.jpg</image:loc>
+      <image:title>Yellow-browed Warbler Abrornis inornatus wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Sturnidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaStGrcox2.jpg</image:loc>
+      <image:title>Asian Pied Starling Gracupica contra wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B624PaStGcx0001.jpg</image:loc>
+      <image:title>Asian Pied Starling Gracupica contra wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B624PaStAtx2.jpg</image:loc>
+      <image:title>Common Myna Acridotheres tristis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B624PaStAtx0001.jpg</image:loc>
+      <image:title>Common Myna Acridotheres tristis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaActrx3.jpg</image:loc>
+      <image:title>Common Myna Acridotheres tristis wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Turdidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaTuGecix1.jpg</image:loc>
+      <image:title>Orange-headed Thrush Geokichla citrina wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Passeriformes&amp;sub3=Vangidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPaVaTepox1.jpg</image:loc>
+      <image:title>Common Woodshrike Tephrodornis pondicerianus wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Pelecaniformes&amp;sub3=Ardeidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPeArArgrx1.jpg</image:loc>
+      <image:title>Indian Pond Heron Ardeola grayii wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPeArBuibx2.jpg</image:loc>
+      <image:title>Cattle Egret Bubulcus ibis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPeArEggax1.jpg</image:loc>
+      <image:title>Little Egret Egretta garzetta wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPeArEggax3.jpg</image:loc>
+      <image:title>Little Egret Egretta garzetta wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPeArEggax4.jpg</image:loc>
+      <image:title>Little Egret Egretta garzetta wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPeArArcix1.jpg</image:loc>
+      <image:title>Grey Heron Ardea cinerea wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPeArArinx1.jpg</image:loc>
+      <image:title>Intermediate Egret Ardea intermedia wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPeArEggax2.jpg</image:loc>
+      <image:title>Little Egret Egretta garzetta wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPeArArpux1.jpg</image:loc>
+      <image:title>Purple Heron Ardea purpurea wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPeArIxsix1.jpg</image:loc>
+      <image:title>Yellow Bittern Ixobrychus sinensis wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPeArArpux2.jpg</image:loc>
+      <image:title>Purple Heron Ardea purpurea wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Pelecaniformes&amp;sub3=Threskiornithidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPeThPspax4.jpg</image:loc>
+      <image:title>Red-naped Ibis/Indian Black Ibis Pseudibis papillosa wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPeThPspax5.jpg</image:loc>
+      <image:title>Red-naped Ibis/Indian Black Ibis Pseudibis papillosa wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPeThPspax3.jpg</image:loc>
+      <image:title>Red-naped Ibis/Indian Black Ibis Pseudibis papillosa wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPeThPspax2.jpg</image:loc>
+      <image:title>Red-naped Ibis/Indian Black Ibis Pseudibis papillosa wildwingsindia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPeThPspax1.jpg</image:loc>
+      <image:title>Red-naped Ibis/Indian Black Ibis Pseudibis papillosa wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Piciformes&amp;sub3=Picidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPiPiDibex1.jpg</image:loc>
+      <image:title>Lesser Golden-backed Woodpecker Dinopium benghalense wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Psittaciformes&amp;sub3=Psittaculidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiPsPsPskrx1.jpg</image:loc>
+      <image:title>Rose-ringed Parakeet Psittacula krameri wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Birds&amp;sub25=Strigiformes&amp;sub3=Strigidae</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B6VeBiStStAtbrx1.jpg</image:loc>
+      <image:title>Spotted Owlet Athene brama wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/sub4.php?sub2=Dicotyledons&amp;sub25=Sapindales&amp;sub3=Anacardiaceae</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/B5AnDiSaAnAnocx1.jpg</image:loc>
+      <image:title>Cashewnut Anacardium occidentale L. wildwingsindia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wildwingsindia.in/wildbengal.php</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/fungi.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Card image cap</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/plants.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Card image cap</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wildwingsindia.in/assets/image/Oriolidae.jpg</image:loc>
+      <image:title>wildwingsindia</image:title>
+      <image:caption>Generic placeholder image</image:caption>
+    </image:image>
+  </url>
+</urlset>
