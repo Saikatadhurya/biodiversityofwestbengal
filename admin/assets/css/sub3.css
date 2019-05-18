@@ -1,0 +1,36 @@
+#container{
+	margin-top: 100px;
+	width: 300px;
+	float:left;
+	bottom:0;
+	margin-left:4px;
+	
+}
+ul.tree, .tree li {
+    list-style: none;
+    margin:0;
+    padding:0;
+    cursor: pointer;
+}
+
+.tree ul {
+  display:none;
+}
+
+.tree > li {
+  display:block;
+  background:#eee;
+  margin-bottom:2px;
+}
+.tree span {
+  display:block;
+  padding:10px 12px;
+
+}
+#containerR{
+	margin-top: 100px;
+	width: 700px;
+	float:left;
+	margin-left:50px;
+	margin-bottom:10px;
+}

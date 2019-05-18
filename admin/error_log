@@ -1,0 +1,67 @@
+[23-Nov-2018 04:09:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/wildwingsindia/public_html/includes/connect.php on line 2
+[23-Nov-2018 04:09:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wildwingsindia/public_html/admin/sidebar/newimage.php on line 44
+[23-Nov-2018 04:09:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/wildwingsindia/public_html/admin/sidebar/newimage.php on line 46
+[23-Nov-2018 04:09:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/wildwingsindia/public_html/includes/connect.php on line 2
+[23-Nov-2018 04:09:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wildwingsindia/public_html/admin/sidebar/newimage.php on line 79
+[23-Nov-2018 04:09:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/wildwingsindia/public_html/admin/sidebar/newimage.php on line 81
+[23-Nov-2018 04:09:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/wildwingsindia/public_html/includes/connect.php on line 2
+[23-Nov-2018 04:09:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wildwingsindia/public_html/admin/sidebar/newimage.php on line 156
+[23-Nov-2018 04:09:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/wildwingsindia/public_html/admin/sidebar/newimage.php on line 158
+[14-Dec-2018 07:27:29 UTC] PHP Warning:  unlink(../assets/image/B6VeBiPaMoAnrux3.jpg): No such file or directory in /home/wildwingsindia/public_html/admin/delete.php on line 8
+[14-Dec-2018 07:28:27 UTC] PHP Warning:  unlink(../assets/image/): Is a directory in /home/wildwingsindia/public_html/admin/delete.php on line 8
+[07-Jan-2019 08:09:38 UTC] PHP Warning:  unlink(../assets/image/): Is a directory in /home/wildwingsindia/public_html/admin/delete.php on line 8
+[11-Jan-2019 15:34:25 UTC] PHP Warning:  unlink(../assets/image/B6VeBiChScTrocx4.jpg): No such file or directory in /home/wildwingsindia/public_html/admin/delete.php on line 8
+[14-Jan-2019 19:44:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wildwingsindia/public_html/admin/includes/connect.php on line 2
+[14-Jan-2019 19:44:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wildwingsindia/public_html/admin/includes/connect.php on line 2
+[14-Jan-2019 19:44:32 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/wildwingsindia/public_html/admin/login.php on line 87
+[14-Jan-2019 19:44:32 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/wildwingsindia/public_html/admin/login.php on line 88
+[14-Jan-2019 19:44:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wildwingsindia/public_html/admin/login.php on line 91
+[14-Jan-2019 19:44:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wildwingsindia/public_html/admin/login.php on line 92
+[14-Jan-2019 19:44:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wildwingsindia/public_html/admin/includes/connect.php on line 2
+[14-Jan-2019 19:44:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/wildwingsindia/public_html/admin/login.php on line 87
+[14-Jan-2019 19:44:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/wildwingsindia/public_html/admin/login.php on line 88
+[14-Jan-2019 19:44:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wildwingsindia/public_html/admin/login.php on line 91
+[14-Jan-2019 19:44:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wildwingsindia/public_html/admin/login.php on line 92
+[14-Jan-2019 19:44:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wildwingsindia/public_html/admin/includes/connect.php on line 2
+[14-Jan-2019 19:44:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/wildwingsindia/public_html/admin/login.php on line 87
+[14-Jan-2019 19:44:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/wildwingsindia/public_html/admin/login.php on line 88
+[14-Jan-2019 19:44:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wildwingsindia/public_html/admin/login.php on line 91
+[14-Jan-2019 19:44:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wildwingsindia/public_html/admin/login.php on line 92
+[14-Jan-2019 19:45:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wildwingsindia/public_html/admin/includes/connect.php on line 2
+[15-Jan-2019 04:08:20 UTC] PHP Warning:  unlink(../assets/image/1.jpg): No such file or directory in /home/wildwingsindia/public_html/admin/delete.php on line 9
+[15-Jan-2019 04:08:20 UTC] PHP Warning:  unlink(../assets/image/1.jpg): No such file or directory in /home/wildwingsindia/public_html/admin/delete.php on line 9
+[15-Jan-2019 04:08:21 UTC] PHP Warning:  unlink(../assets/image/): Is a directory in /home/wildwingsindia/public_html/admin/delete.php on line 9
+[16-Jan-2019 09:15:24 UTC] PHP Warning:  unlink(../assets/image/B6InInBuLyRaMax3.jpg): No such file or directory in /home/wildwingsindia/public_html/admin/delete.php on line 9
+[17-Jan-2019 06:55:19 UTC] PHP Warning:  unlink(../assets/image/1.jpg): No such file or directory in /home/wildwingsindia/public_html/admin/delete.php on line 9
+[18-Jan-2019 19:13:24 UTC] PHP Warning:  unlink(../assets/image/B6InInBuHeIasax5.jpg): No such file or directory in /home/wildwingsindia/public_html/admin/delete.php on line 9
+[18-Jan-2019 19:15:29 UTC] PHP Warning:  unlink(../assets/image/1.jpg): No such file or directory in /home/wildwingsindia/public_html/admin/delete.php on line 9
+[20-Jan-2019 08:20:34 UTC] PHP Warning:  unlink(../assets/image/B5AnDiLaVeLacax1.jpg): No such file or directory in /home/wildwingsindia/public_html/admin/delete.php on line 9
+[24-Jan-2019 09:21:11 UTC] PHP Warning:  unlink(../assets/image/1.jpg): No such file or directory in /home/wildwingsindia/public_html/admin/delete.php on line 9
+[25-Jan-2019 04:21:55 UTC] PHP Warning:  unlink(../assets/image/B6InInBuPaPapox7.jpg): No such file or directory in /home/wildwingsindia/public_html/admin/delete.php on line 9
+[25-Jan-2019 04:22:08 UTC] PHP Warning:  unlink(../assets/image/B6InInBuPaPapox5.jpg): No such file or directory in /home/wildwingsindia/public_html/admin/delete.php on line 9
+[25-Jan-2019 04:23:58 UTC] PHP Warning:  unlink(../assets/image/B6InInBuPaPapox4.jpg): No such file or directory in /home/wildwingsindia/public_html/admin/delete.php on line 9
+[27-Jan-2019 15:30:43 UTC] PHP Warning:  unlink(../assets/image/1.jpg): No such file or directory in /home/wildwingsindia/public_html/admin/delete.php on line 9
+[27-Jan-2019 17:45:34 UTC] PHP Warning:  unlink(../assets/image/B6VeBiAnAnNerux2.jpg): No such file or directory in /home/wildwingsindia/public_html/admin/delete.php on line 9
+[05-Feb-2019 17:29:09 UTC] PHP Warning:  include(sidebar/sub1edit.php): failed to open stream: No such file or directory in /home/wildwingsindia/public_html/admin/index.php on line 139
+[05-Feb-2019 17:29:09 UTC] PHP Warning:  include(sidebar/sub1edit.php): failed to open stream: No such file or directory in /home/wildwingsindia/public_html/admin/index.php on line 139
+[05-Feb-2019 17:29:09 UTC] PHP Warning:  include(): Failed opening 'sidebar/sub1edit.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/wildwingsindia/public_html/admin/index.php on line 139
+[08-Feb-2019 08:33:03 UTC] PHP Warning:  include(sidebar/speciesnameedit.php): failed to open stream: No such file or directory in /home/wildwingsindia/public_html/admin/index.php on line 163
+[08-Feb-2019 08:33:03 UTC] PHP Warning:  include(sidebar/speciesnameedit.php): failed to open stream: No such file or directory in /home/wildwingsindia/public_html/admin/index.php on line 163
+[08-Feb-2019 08:33:03 UTC] PHP Warning:  include(): Failed opening 'sidebar/speciesnameedit.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/wildwingsindia/public_html/admin/index.php on line 163
+[16-Feb-2019 17:20:10 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/wildwingsindia/public_html/includes/connect.php on line 13
+[16-Feb-2019 17:20:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wildwingsindia/public_html/admin/sidebar/newimage.php on line 44
+[16-Feb-2019 17:20:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/wildwingsindia/public_html/admin/sidebar/newimage.php on line 46
+[16-Feb-2019 17:20:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/wildwingsindia/public_html/includes/connect.php on line 13
+[16-Feb-2019 17:20:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wildwingsindia/public_html/admin/sidebar/newimage.php on line 80
+[16-Feb-2019 17:20:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/wildwingsindia/public_html/admin/sidebar/newimage.php on line 82
+[16-Feb-2019 17:20:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/wildwingsindia/public_html/includes/connect.php on line 13
+[16-Feb-2019 17:20:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wildwingsindia/public_html/admin/sidebar/newimage.php on line 157
+[16-Feb-2019 17:20:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/wildwingsindia/public_html/admin/sidebar/newimage.php on line 159
+[16-Feb-2019 17:22:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/wildwingsindia/public_html/includes/connect.php on line 13
+[16-Feb-2019 17:22:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wildwingsindia/public_html/admin/sidebar/editimage.php on line 33
+[16-Feb-2019 17:22:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/wildwingsindia/public_html/admin/sidebar/editimage.php on line 37
+[23-Mar-2019 11:22:19 UTC] PHP Warning:  include(sidebar/speciesnameedit.php): failed to open stream: No such file or directory in /home/wildwingsindia/public_html/admin/index.php on line 163
+[23-Mar-2019 11:22:19 UTC] PHP Warning:  include(sidebar/speciesnameedit.php): failed to open stream: No such file or directory in /home/wildwingsindia/public_html/admin/index.php on line 163
+[23-Mar-2019 11:22:19 UTC] PHP Warning:  include(): Failed opening 'sidebar/speciesnameedit.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/wildwingsindia/public_html/admin/index.php on line 163
+[22-Apr-2019 01:23:15 UTC] PHP Warning:  unlink(../biodiversityofwestbengal/assets/image/): Is a directory in /home/wildwingsindia/public_html/admin/delete.php on line 9
+[23-Apr-2019 08:55:39 UTC] PHP Warning:  unlink(../biodiversityofwestbengal/assets/image/): Is a directory in /home/wildwingsindia/public_html/admin/delete.php on line 9
